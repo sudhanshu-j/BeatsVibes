@@ -22,8 +22,6 @@ Features
     
     • Smooth Animations: Powered by ScrollReveal, providing fade-ins, slide-ins, and other animations as users scroll through 
       the site.
- 
-    • Interactive Elements: Call-to-action buttons, hover effects, and modals.
     
     • Modern UI: Sleek and minimalistic design, focusing on Beats headphones' visual appeal.
     
@@ -61,8 +59,6 @@ Usage
     • The home page showcases a hero section with an eye-catching banner featuring the latest Beats headphones.
 
     • As the user scrolls, product features, descriptions, and images will animate into view using ScrollReveal.
-
-    • Call-to-action buttons allow users to navigate to product details or purchase pages.
 
     • The design is responsive and adapts to different screen sizes for an optimal user experience.
 
