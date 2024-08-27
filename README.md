@@ -14,6 +14,8 @@ Table of Contents
 
      4. Usage
 
+     5. Folder Structure
+
 Features
 
     • Responsive Design: Optimized for mobile, tablet, and desktop viewports.
@@ -81,7 +83,28 @@ Example usage in JavaScript:
     Elements with the .headline class will slide in from the left as the user scrolls.
 
 
+Folder Structure:
+   BeatsVibes/
 
+    ├── assets/
+    │
+
+    ├── css/
+    │   └── styles.css               # Main CSS file for styling
+    │
+
+    ├── js/
+    │   ├── scrollreveal.min.js      # ScrollReveal library
+    │   └── main.js                  # Main JavaScript file
+    │
+
+    ├── img/
+    │   └── ...                      # Image assets for Images, logos, etc.
+    │
+
+    ├── index.html                   # Main HTML file
+
+    └── README.md                    # ReadMe file (this file)
 
 
 
